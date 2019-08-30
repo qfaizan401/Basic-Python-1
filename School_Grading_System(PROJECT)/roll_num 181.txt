@@ -1,0 +1,25 @@
+FILE CREATED[2019-08-11 02:26:07.329138]
+                                                  ABC SCHOOL                                                  
+                                             Student Result Card                                              
+
+Enter the Student Name:				MUHAMMAD FAIZAN QURESHI
+
+Enter the marks of Subject 1:				89.0
+
+Enter the marks of Subject 2:				45.0
+
+Enter the marks of Subject 3:				96.0
+
+Enter the marks of Subject 4:				12.0
+
+Enter the marks of Subject 5:				52.0
+
+Enter the marks of Subject 6:				93.0
+
+You have FAILED in Suject 2 with obtain marks:45.0
+
+You have FAILED in Suject 4 with obtain marks:12.0
+
+TOTAL MARKS: 387.0
+PERCENTAGE: 64.5
+Grade: C

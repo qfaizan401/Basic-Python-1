@@ -1,0 +1,23 @@
+FILE CREATED[2019-08-11 03:20:36.832662]
+                                                  ABC SCHOOL                                                  
+                                             Student Result Card                                              
+
+Enter the Student Name:				sara
+
+Enter the marks of Subject 1:				78.0
+
+Enter the marks of Subject 2:				98.0
+
+Enter the marks of Subject 3:				65.0
+
+Enter the marks of Subject 4:				96.0
+
+Enter the marks of Subject 5:				78.0
+
+Enter the marks of Subject 6:				54.0
+
+You have Passed all the subjects
+
+TOTAL MARKS: 469.0
+PERCENTAGE: 78.17
+Grade: B

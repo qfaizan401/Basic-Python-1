@@ -1,0 +1,23 @@
+FILE CREATED[2019-08-30 15:38:31.099817]
+                                                  ABC SCHOOL                                                  
+                                             Student Result Card                                              
+
+Enter the Student Name:				ali
+
+Enter the marks of Subject 1:				78.0
+
+Enter the marks of Subject 2:				83.0
+
+Enter the marks of Subject 3:				69.0
+
+Enter the marks of Subject 4:				59.0
+
+Enter the marks of Subject 5:				45.0
+
+Enter the marks of Subject 6:				89.0
+
+You have FAILED in Suject 5 with obtain marks:45.0
+
+TOTAL MARKS: 423.0
+PERCENTAGE: 70.5
+Grade: B
