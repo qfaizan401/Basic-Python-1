@@ -1,3 +1,2 @@
-# Advance-Python
-This repository contain advance python library for data analysis.
-Numpy | Pandas | Matplotlib
+# Basic-Python
+This repository contain basic python concepts.
